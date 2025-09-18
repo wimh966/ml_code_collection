@@ -1,0 +1,1 @@
+* hasattr(dict, key) is wrong. We can only use key in dict.
